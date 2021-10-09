@@ -1,2 +1,2 @@
 # First-Repository
-## Will add something later
+##### MM220 has a list of all assignment codes
