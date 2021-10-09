@@ -1,3 +1,6 @@
+% Assignment 1
+% [z] = MM220A1(-5*pi,pi/10,5*pi,-5*pi,pi/10,5*pi)
+
 function [z] = MM220A1(xmin,deltax,xmax,ymin,deltay,ymax)
 
 %xlim([-5*pi 5*pi])
@@ -24,3 +27,6 @@ zlabel('sin(x)cos(y)/x');
 
 print('MM220A1','-dpng');
 end
+
+% Output variable(s) are on the LHS of the above code
+% z: output variable
