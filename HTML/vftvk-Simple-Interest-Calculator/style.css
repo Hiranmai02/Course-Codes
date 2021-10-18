@@ -1,0 +1,43 @@
+body{background-color: black;
+    color: rgb(2, 2, 2);
+    border-radius: 1em;
+    padding: 1em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)}
+
+.h1 {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#rr{
+    background-color:rgb(253, 252, 251);
+    border-radius: 25px;
+    height: 360px;
+    width: 530px;
+   }
+
+.center {
+    text-align: center;
+  }
+
+.slidecontainer {
+    width: 100%; 
+  }
+  
+.slider{
+    width: 30%;
+}
+  
+.slider:hover {
+    opacity: 1;
+  }
+  
+  
