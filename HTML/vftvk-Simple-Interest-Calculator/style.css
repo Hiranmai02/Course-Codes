@@ -11,17 +11,22 @@ body{background-color: black;
 .h1 {
     color: grey;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center
 }
 
 .font {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+#alignment{
+    margin-left:100px;
+    width: 100%
+}
 #rr{
     background-color:rgb(253, 252, 251);
     border-radius: 25px;
-    height: 360px;
-    width: 530px;
+    height: 475px;
+    width: 575px;
    }
 
 .center {
