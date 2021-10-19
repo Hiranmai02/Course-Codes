@@ -5,3 +5,6 @@
 - HTML has practice codes for HTML and CSS
 - C++ has CS101 lab codes
 - Python has other extra codes
+
+Link to Github Page: Simple Interest Calculator: 
+https://hiranmai02.github.io/vftvk-Simple-Interest-Calculator/
