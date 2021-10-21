@@ -4,6 +4,7 @@
 - MM220 has a list of all assignment and exam codes (Python and MATLAB)
 - HTML has practice codes for HTML and CSS
 - C++ has CS101 lab codes
+- R has sample course codes
 - Python has other extra codes
 
 Link to Github Page: Simple Interest Calculator: 
