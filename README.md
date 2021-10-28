@@ -1,6 +1,6 @@
 # Course Codes
 
-#### A Trial Repository with pretty much everything
+#### A Trial Repository with a bunch of random stuff
 - MM220 has a list of all assignment and exam codes (Python and MATLAB)
 - HTML has practice codes for HTML and CSS
 - C++ has CS101 lab codes
