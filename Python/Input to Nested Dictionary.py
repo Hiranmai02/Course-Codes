@@ -60,3 +60,10 @@ for i in range(len(list_x)):     # converting final list with added scores and s
     list_tuple.append(tuple(list_x[i]))
 
 print(list_tuple)
+
+
+
+# 3
+# match1:p1-9,p2-38
+# match2:p3-19,P1-49
+# m3:p3-1,p4-6,p1-91
